@@ -1,0 +1,11 @@
+input {
+    margin-bottom: 10px;
+    display: block;
+    background: lightpink;
+
+}
+
+:hover {
+    background-color: lightslategrey;
+    border-top: turquoise;
+}
